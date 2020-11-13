@@ -1,0 +1,10 @@
+{
+  "name": "@carltonj2000/ccaj2",
+  "version": "1.0.2",
+  "main": "index.js",
+  "license": "MIT",
+  "bin": "index.js",
+  "dependencies": {
+    "ansi-colors": "^4.1.1"
+  }
+}

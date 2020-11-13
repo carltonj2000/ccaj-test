@@ -1,0 +1,9 @@
+{
+  "name": "@carltonj2000/ccaj1",
+  "version": "1.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "bin": {
+    "ccaj1": "index.js"
+  }
+}
