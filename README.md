@@ -27,3 +27,10 @@ npm uninstall -g @carltonj2000/ccaj
 # OCLIF
 
 npx oclif multi mynewcli
+
+# DEB
+
+In order for `npx oclif-dev pack:deb` to work need to
+comment out the `chmod` and `chown` in the
+`vi node_modules/@oclif/dev-cli/lib/commands/pack/deb.js`
+file.
